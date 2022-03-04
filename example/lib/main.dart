@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:anime_streamlink/anime_streamlink.dart';
 import 'package:flutter/material.dart';
 
